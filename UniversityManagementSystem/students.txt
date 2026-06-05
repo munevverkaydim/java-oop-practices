@@ -1,0 +1,2 @@
+Student ID: 1001 | Name: Ahmet | Dept: Computer Engineering | GPA: 3.85
+Student ID: 1002 | Name: Ayse | Dept: Software Engineering | GPA: 3.4

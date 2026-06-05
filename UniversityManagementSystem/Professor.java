@@ -1,4 +1,6 @@
 //this class came from(extends) academicStaff class
+//and academic class extends from person
+// java dont let you extend twice. we came here with two stepp.
 
 public class Professor extends AcademicStaff {
     private int publishedPapers; // it is special to Professor
