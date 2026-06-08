@@ -26,7 +26,7 @@ public class UniversityManagementSystem {
 
             //objects added polimorficly to the list 
             people.add(s1);
-            people.add(s2);
+            people.add(s2); 
             people.add(p1);
             people.add(p2);
             people.add(r1);
