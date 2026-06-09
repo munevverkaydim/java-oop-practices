@@ -29,7 +29,7 @@ public class SmartPaymentSystem {
         PaymentProcessor processor = PaymentFactory.createProcessor(type);
         //this line is confusing but we there is details:
         //PaymentProcessor is an interface that processor type will implement
-        //createProcessor method is (static) inside the PaymentFactory class.
+        //createProcessor method is (static) inside the PaymentFactory class
         
         processor.processPayment(amount);
 
